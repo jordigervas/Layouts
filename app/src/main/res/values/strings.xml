@@ -1,0 +1,30 @@
+<resources>
+    <!-- Main layout -->
+    <string name="app_name">TLayouts</string>
+    <string name="common">Common Layouts</string>
+    <string name="adapter">Layouts with an adapter</string>
+    <string name="linear">Linear Layout</string>
+    <string name="relative">Relative Layout</string>
+    <string name="webview">Web View</string>
+    <string name="listview">List View</string>
+    <string name="gridview">Grid View</string>
+
+    <!-- Linear layout -->
+    <string name="red">red</string>
+    <string name="green">green</string>
+    <string name="blue">blue</string>
+    <string name="yellow">yellow</string>
+    <string name="row1">row one</string>
+    <string name="row2">row two</string>
+    <string name="row3">row three</string>
+    <string name="row4">row four</string>
+
+    <!-- Relative layout -->
+    <string name="typehere">Type here:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- WebView -->
+    <string name="myUrl">http://www.eps.udl.cat</string>
+
+</resources>
